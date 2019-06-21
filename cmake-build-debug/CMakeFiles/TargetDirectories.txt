@@ -1,0 +1,3 @@
+/home/utec/Lab104/Proyecto2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/utec/Lab104/Proyecto2/cmake-build-debug/CMakeFiles/game.dir
+/home/utec/Lab104/Proyecto2/cmake-build-debug/CMakeFiles/edit_cache.dir
